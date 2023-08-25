@@ -1,4 +1,4 @@
-# Tailwind Stories 
+# Tailwind Stories [Live](https://tailwind-stories.netlify.app/#)
 - A project completed on day4 of #30daysofcode.
 - Objective = learn basics implementation of tailwind-css.
 
